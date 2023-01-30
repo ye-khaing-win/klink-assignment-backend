@@ -1,0 +1,167 @@
+[
+  { "name": "Construction", "description": "Construction" },
+  {
+    "name": "Engineering Manufacturing - Electrical Products",
+    "description": "Engineering Manufacturing - Electrical Products"
+  },
+  {
+    "name": "Engineering Manufacturing - Fabricated Metal Products",
+    "description": "Engineering Manufacturing - Fabricated Metal Products"
+  },
+  {
+    "name": "Engineering Manufacturing - Food, Beverages & Tobacco",
+    "description": "Engineering Manufacturing - Food, Beverages & Tobacco"
+  },
+  {
+    "name": "Engineering Manufacturing - Light and other manufacturing",
+    "description": "Engineering Manufacturing - Light and other manufacturing"
+  },
+  {
+    "name": "Engineering Manufacturing - Machinery and Equipment",
+    "description": "Engineering Manufacturing - Machinery and Equipment"
+  },
+  {
+    "name": "Engineering Manufacturing - Marine and offshore engineering",
+    "description": "Engineering Manufacturing - Marine and offshore engineering"
+  },
+  {
+    "name": "Engineering Manufacturing - Medical and Precision Instruments",
+    "description": "Engineering Manufacturing - Medical and Precision Instruments"
+  },
+  {
+    "name": "Engineering Manufacturing - Oilfield and gasfield machinery and equipment manufacturing",
+    "description": "Engineering Manufacturing - Oilfield and gasfield machinery and equipment manufacturing"
+  },
+  {
+    "name": "Engineering Manufacturing - Other engineering manufacturing",
+    "description": "Engineering Manufacturing - Other engineering manufacturing"
+  },
+  {
+    "name": "Engineering Manufacturing - Paper Products & Printing",
+    "description": "Engineering Manufacturing - Paper Products & Printing"
+  },
+  {
+    "name": "Engineering Manufacturing - Textile & Wearing Apparel",
+    "description": "Engineering Manufacturing - Textile & Wearing Apparel"
+  },
+  {
+    "name": "Engineering Manufacturing - Transport Equipment",
+    "description": "Engineering Manufacturing - Transport Equipment"
+  },
+  {
+    "name": "Manufacturing - Chemical manufacturing",
+    "description": "Manufacturing - Chemical manufacturing"
+  },
+  {
+    "name": "Manufacturing - Electronic Products",
+    "description": "Manufacturing - Electronic Products"
+  },
+  {
+    "name": "Manufacturing - Other manufacturing",
+    "description": "Manufacturing - Other manufacturing"
+  },
+  {
+    "name": "Manufacturing - Pharmaceutical & Biological Products manufacturing",
+    "description": "Manufacturing - Pharmaceutical & Biological Products manufacturing"
+  },
+  {
+    "name": "Services - Accommodation",
+    "description": "Services - Accommodation"
+  },
+  {
+    "name": "Services - Administrative and Support Services Activities",
+    "description": "Services - Administrative and Support Services Activities"
+  },
+  {
+    "name": "Services - Advertising services and Market Research",
+    "description": "Services - Advertising services and Market Research"
+  },
+  {
+    "name": "Services - Architectural",
+    "description": "Services - Architectural"
+  },
+  {
+    "name": "Services - Arts, Entertainment and Recreation",
+    "description": "Services - Arts, Entertainment and Recreation"
+  },
+  {
+    "name": "Services - Business and Management Consultancy",
+    "description": "Services - Business and Management Consultancy"
+  },
+  { "name": "Services - Education", "description": "Services - Education" },
+  {
+    "name": "Services - Financial and Insurance",
+    "description": "Services - Financial and Insurance"
+  },
+  {
+    "name": "Services - Food & Beverage",
+    "description": "Services - Food & Beverage"
+  },
+  { "name": "Services - Healthcare", "description": "Services - Healthcare" },
+  {
+    "name": "Services - Information & Communication",
+    "description": "Services - Information & Communication"
+  },
+  {
+    "name": "Services - Industrial design activities",
+    "description": "Services - Industrial design activities"
+  },
+  {
+    "name": "Services - Legal, Accounting and Auditing",
+    "description": "Services - Legal, Accounting and Auditing"
+  },
+  {
+    "name": "Services - Logistics and Supply Chain Management",
+    "description": "Services - Logistics and Supply Chain Management"
+  },
+  {
+    "name": "Services - Maritime/Shipping",
+    "description": "Services - Maritime/Shipping"
+  },
+  {
+    "name": "Services - Other engineering activities",
+    "description": "Services - Other engineering activities"
+  },
+  {
+    "name": "Services - Other Professional, Scientific & Technical activities",
+    "description": "Services - Other Professional, Scientific & Technical activities"
+  },
+  {
+    "name": "Services - Services - Petroleum, mining and prospecting services",
+    "description": "Services - Services - Petroleum, mining and prospecting services"
+  },
+  {
+    "name": "Services - Public Administration and Defence",
+    "description": "Services - Public Administration and Defence"
+  },
+  {
+    "name": "Services - Personal & Other Service Activities",
+    "description": "Services - Personal & Other Service Activities"
+  },
+  {
+    "name": "Services - Retail Trade",
+    "description": "Services - Retail Trade"
+  },
+  { "name": "Services - Real Estate", "description": "Services - Real Estate" },
+  {
+    "name": "Services - Scientific Research & Development",
+    "description": "Services - Scientific Research & Development"
+  },
+  {
+    "name": "Services - Society & Community",
+    "description": "Services - Society & Community"
+  },
+  {
+    "name": "Services - Solar, wind, water treatment",
+    "description": "Services - Solar, wind, water treatment"
+  },
+  {
+    "name": "Services - Transportation & Storage",
+    "description": "Services - Transportation & Storage"
+  },
+  {
+    "name": "Services - Wholesale Trade",
+    "description": "Services - Wholesale Trade"
+  },
+  { "name": "Services - Petroleum", "description": "Services - Petroleum" }
+]

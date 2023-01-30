@@ -1,0 +1,89 @@
+[
+  { "name": "Administrative", "description": "Administrative" },
+  { "name": "Architecture, Design", "description": "Architecture, Design" },
+  { "name": "Business Development", "description": "Business Development" },
+  {
+    "name": "Customer Service, Support",
+    "description": "Customer Service, Support"
+  },
+  { "name": "Community Service/NVPC", "description": "Community Service/NVPC" },
+  { "name": "Consulting/IT", "description": "Consulting/IT" },
+  { "name": "Consulting/Strategy", "description": "Consulting/Strategy" },
+  {
+    "name": "Education, Teaching, Childcare",
+    "description": "Education, Teaching, Childcare"
+  },
+  { "name": "Food and Beverage", "description": "Food and Beverage" },
+  { "name": "Finance/Accounting", "description": "Finance/Accounting" },
+  {
+    "name": "Finance/Commercial Banking",
+    "description": "Finance/Commercial Banking"
+  },
+  {
+    "name": "Finance/Corporate Finance",
+    "description": "Finance/Corporate Finance"
+  },
+  { "name": "Finance/Insurance", "description": "Finance/Insurance" },
+  {
+    "name": "Finance/Investment Banking",
+    "description": "Finance/Investment Banking"
+  },
+  {
+    "name": "Finance/Investments/Asset Mgt",
+    "description": "Finance/Investments/Asset Mgt"
+  },
+  { "name": "Finance/Public Finance", "description": "Finance/Public Finance" },
+  { "name": "Finance/Real Estate", "description": "Finance/Real Estate" },
+  {
+    "name": "Finance/Sales and Trading",
+    "description": "Finance/Sales and Trading"
+  },
+  { "name": "Human Resources", "description": "Human Resources" },
+  {
+    "name": "Hospitality, Hotel, Tourism",
+    "description": "Hospitality, Hotel, Tourism"
+  },
+  { "name": "Information Technology", "description": "Information Technology" },
+  {
+    "name": "Legal, Risk and Compliance",
+    "description": "Legal, Risk and Compliance"
+  },
+  { "name": "Management/General", "description": "Management/General" },
+  {
+    "name": "Management/Leadership Development",
+    "description": "Management/Leadership Development"
+  },
+  { "name": "Marketing/Advertising", "description": "Marketing/Advertising" },
+  {
+    "name": "Marketing/Brand Management",
+    "description": "Marketing/Brand Management"
+  },
+  {
+    "name": "Marketing/Market Research",
+    "description": "Marketing/Market Research"
+  },
+  {
+    "name": "Marketing/Public Relations",
+    "description": "Marketing/Public Relations"
+  },
+  { "name": "Marketing/Sales", "description": "Marketing/Sales" },
+  { "name": "Manufacturing, Factory", "description": "Manufacturing, Factory" },
+  {
+    "name": "Medical, Nursing, Pharmacy",
+    "description": "Medical, Nursing, Pharmacy"
+  },
+  { "name": "Operations/Engineering", "description": "Operations/Engineering" },
+  {
+    "name": "Operations/Logistics/Supply Chain",
+    "description": "Operations/Logistics/Supply Chain"
+  },
+  {
+    "name": "Operations/Production Management",
+    "description": "Operations/Production Management"
+  },
+  { "name": "PR, Communications", "description": "PR, Communications" },
+  { "name": "Quality Assurance", "description": "Quality Assurance" },
+  { "name": "Translation", "description": "Translation" },
+  { "name": "Writing, Editing", "description": "Writing, Editing" },
+  { "name": "Other", "description": "Other" }
+]

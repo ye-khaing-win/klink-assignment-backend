@@ -1,0 +1,11 @@
+[
+  { "name": "Entry", "description": "Entry" },
+  { "name": "Junior to Mid", "description": "Junior to Mid" },
+  { "name": "Senior", "description": "Senior" },
+  {
+    "name": "Manager (Minimal Experience)",
+    "description": "Manager (Minimal Experience)"
+  },
+  { "name": "Senior Manager", "description": "Senior Manager" },
+  { "name": "Director & Above ", "description": "Director & Above " }
+]

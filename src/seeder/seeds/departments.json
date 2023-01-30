@@ -1,0 +1,13 @@
+[
+  { "name": "Human Resources", "description": "Human Resources" },
+  { "name": "IT", "description": "IT" },
+  { "name": "Accounting and Finance", "description": "Accounting and Finance" },
+  { "name": "Marketing", "description": "Marketing" },
+  { "name": "Sales", "description": "Sales" },
+  {
+    "name": "Research and Development (R&D)",
+    "description": "Research and Development (R&D)"
+  },
+  { "name": "Operations", "description": "Operations" },
+  { "name": "General Management", "description": "General Management" }
+]

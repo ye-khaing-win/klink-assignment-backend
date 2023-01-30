@@ -1,0 +1,32 @@
+[
+  {
+    "name": "list-pending-user",
+    "key": "pending-user",
+    "description": "This is only list pending user permission",
+    "action": "list"
+  },
+  {
+    "name": "details-pending-user",
+    "key": "pending-user",
+    "description": "This is only details pending user permission",
+    "action": "details"
+  },
+  {
+    "name": "create-pending-user",
+    "key": "pending-user",
+    "description": "This is only create pending user permission",
+    "action": "create"
+  },
+  {
+    "name": "update-pending-user",
+    "key": "pending-user",
+    "description": "This is only update pending user permission",
+    "action": "update"
+  },
+  {
+    "name": "delete-pending-user",
+    "key": "pending-user",
+    "description": "This is only delete pending user permission",
+    "action": "delete"
+  }
+]
