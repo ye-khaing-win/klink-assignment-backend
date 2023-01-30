@@ -7,7 +7,7 @@ import * as helpers from '../../utils/helpers.js';
 import File from '../../models/files/fileModel.js';
 import AppError from '../../utils/AppError.js';
 import catchAsync from '../../utils/catchAsync.js';
-import APIFeatures from '../../utils/apiFeatures.js';
+import APIFeatures from '../../utils/ApiFeatures.js';
 
 const bucketName = process.env.BUCKET_NAME;
 const bucketRegion = process.env.BUCKET_REGION;

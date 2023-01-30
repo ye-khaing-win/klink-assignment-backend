@@ -1,6 +1,6 @@
 import AppError from '../../utils/AppError.js';
 import catchAsync from '../../utils/catchAsync.js';
-import APIFeatures from '../../utils/apiFeatures.js';
+import APIFeatures from '../../utils/ApiFeatures.js';
 
 export const getAll = (Model) =>
   catchAsync(async (req, res, next) => {
